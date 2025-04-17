@@ -1,6 +1,5 @@
+https://github.com/user-attachments/assets/608acba7-e047-4574-8e16-d6a2b437b9e5
 
-https://github.com/user-attachments/assets/1b451144-236e-41bc-80c7-28818df66a08
-Uploading 9-Hollow-Knight.mp4…
 
 🕹️ Hollow Knight – Galeria Interativa dos Personagens
 
