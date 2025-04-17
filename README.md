@@ -8,6 +8,6 @@ O site oferece uma experiência visual rica e imersiva, com animações suaves, 
 
 Além do aspecto visual, o projeto também demonstra domínio de tecnologias como HTML, CSS e JavaScript aplicadas em interfaces dinâmicas, sendo uma ótima referência para quem deseja aprender como criar sliders automáticos com mídia integrada.
 
-🔗 [Clique aqui para acessar o site e explorar o mundo de Hollow Knight](https://9-hollow-knight.vercel.app/)
+👉 [Clique aqui para acessar o site e explorar o mundo de Hollow Knight](https://9-hollow-knight.vercel.app/)
 
 Recomendado para fãs do jogo, desenvolvedores interessados em experiências visuais com HTML/CSS/JS e amantes de design interativo inspirado em games.
