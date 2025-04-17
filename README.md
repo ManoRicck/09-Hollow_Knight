@@ -1,6 +1,5 @@
 https://github.com/user-attachments/assets/608acba7-e047-4574-8e16-d6a2b437b9e5
 
-
 🕹️ Hollow Knight
 
 Este projeto é uma homenagem ao universo de Hollow Knight, trazendo uma galeria interativa com os principais personagens do jogo. Por meio de um carrossel estilizado, o usuário pode navegar entre diferentes cavaleiros e criaturas icônicas, cada um com sua própria imagem representativa e uma breve apresentação em vídeo, que é carregado automaticamente após alguns segundos.
