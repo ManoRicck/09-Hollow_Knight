@@ -1,7 +1,7 @@
 https://github.com/user-attachments/assets/608acba7-e047-4574-8e16-d6a2b437b9e5
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/900ba662-9b53-42f9-9189-1553d3e44eb2" alt="logo" height="200">
+  <img src="https://github.com/user-attachments/assets/8b0119ff-7375-434b-81a9-d943898fc111" alt="logo" height="200">
 </div>
 <h1 align="center">  
   Hollow Knight  
