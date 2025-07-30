@@ -26,7 +26,7 @@ ul {
     background-color: #282828;
     color: #fff;
     overflow-x: hidden;
-    cursor: url("img/menu/cursor.png") , auto;
+    cursor: url('../img/menu/cursor.png'), auto;
 }
 
 .menu-text {
@@ -911,16 +911,12 @@ hr {
     border: 1px solid rgb(0, 0, 0);
 }
 
-.video_gameplays {
-    display: flex;
-}
 
-.video_gameplay {
-    flex: 0 0 100%;
-    transition: 0.5s;
-}
 
 .video_gameplay video {
+    display: flex;
+    flex: 0 0 100%;
+    transition: 0.5s;
     width: 100%;
     height: auto;
 }
